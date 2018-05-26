@@ -38,7 +38,7 @@
 
 ### Speech & Audio 
 
-(1) A Universal Music Translation Network (2018) [[pdf]](https://arxiv.org/pdf/1805.07848.pdf)
+(1) A Universal Music Translation Network (2018, Facebook Research) [[pdf]](https://arxiv.org/pdf/1805.07848.pdf)
 
 
 ---------------------
