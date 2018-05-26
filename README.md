@@ -50,6 +50,10 @@
 
 (2) Compact Convolutional Neural Network Cascade for Face Detection (2015, CVPR) [[pdf]](https://arxiv.org/pdf/1508.01292.pdf)
 
+(3) Rich feature hierarchies for accurate object detection and semantic segmentation (2014, CVPR) [[pdf]](https://pdfs.semanticscholar.org/9da7/d8b23c4d4db57a0f35567fdafae7c86dc039.pdf)
+
+(4) Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition (2014, ECCV) [[pdf]](https://arxiv.org/pdf/1406.4729.pdf)
+
 ---------------------
 
 
