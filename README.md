@@ -13,6 +13,8 @@
 
 (4) DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting [[pdf]](https://arxiv.org/abs/1709.09585.pdf)
 
+(5) Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (2015, NIPS) [[pdf]](https://arxiv.org/pdf/1506.01497.pdf)
+
 
 ---------------------
 
