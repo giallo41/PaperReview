@@ -59,6 +59,9 @@
 
 (6) Speed/accuracy trade-offs for modern convolutional object detectors (2016) [[pdf]](https://arxiv.org/abs/1611.10012.pdf)
 
+(7) You Only Look Once: Unified, Real-Time Object Detection (2016, CVPR) [[pdf]](https://arxiv.org/abs/1506.02640)
+
+
 
 ---------------------
 
