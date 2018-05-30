@@ -82,3 +82,15 @@
 ---------------------
 
 
+### ETC 
+
+(1) LEARNING TO DIAGNOSE WITH LSTM RECURRENT NEURAL NETWORKS [[pdf]](https://pdfs.semanticscholar.org/bba9/b93ab8d9b98cd54001a5ba9673e513a35219.pdf)
+
+(2) House Price Prediction Using LSTM [[pdf]](https://arxiv.org/pdf/1709.08432.pdf)
+
+
+
+
+
+---------------------
+
