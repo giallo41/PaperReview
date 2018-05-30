@@ -88,8 +88,7 @@
 
 (2) House Price Prediction Using LSTM [[pdf]](https://arxiv.org/pdf/1709.08432.pdf)
 
-
-
+(3) Image Based Appraisal of Real Estate Properties [[pdf]](https://arxiv.org/pdf/1611.09180.pdf)
 
 
 ---------------------
