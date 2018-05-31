@@ -61,7 +61,7 @@
 
 (7) You Only Look Once: Unified, Real-Time Object Detection (2016, CVPR) [[pdf]](https://arxiv.org/abs/1506.02640)
 
-
+(8) SSD: Single Shot MultiBox Detector (2015) [[pdf]](https://arxiv.org/pdf/1512.02325.pdf)
 
 ---------------------
 
@@ -92,4 +92,6 @@
 
 
 ---------------------
+
+
 
