@@ -21,10 +21,13 @@
 
 ### Medical & Healthcare
 
-(1) Dermatologist-level classification of skin cancer with deep neural networks (2017) [[pdf]](https://www.nature.com/articles/nature21056)
+(1) Dermatologist-level classification of skin cancer with deep neural networks (2017, Nature) [[pdf]](https://www.nature.com/articles/nature21056)
 
 (2) Learning Normalized Inputs for Iterative Estimation in Medical Image Segmentation (2017) [[pdf]](https://arxiv.org/abs/1702.05174.pdf)
 
+(3) Detecting Cancer Metastases on Gigapixel Pathology Images (2017) [[pdf]](https://arxiv.org/pdf/1703.02442.pdf)
+
+(4) Google in silico fluorescent labeling (2018, Cell) [[pdf]](https://www.cell.com/cell/fulltext/S0092-8674(18)30364-7)
 
 ---------------------
 
