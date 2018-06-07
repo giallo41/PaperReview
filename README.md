@@ -95,6 +95,7 @@
 
 (3) Image Based Appraisal of Real Estate Properties [[pdf]](https://arxiv.org/pdf/1611.09180.pdf)
 
+(4) BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling [[pdf]](https://arxiv.org/abs/1805.04687.pdf)
 
 ---------------------
 
