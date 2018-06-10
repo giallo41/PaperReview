@@ -97,6 +97,8 @@
 
 (4) BDD100K: A Diverse Driving Video Database with Scalable Annotation Tooling [[pdf]](https://arxiv.org/abs/1805.04687.pdf)
 
+(5) Lp-ESTIMATES FOR TIME FRACTIONAL PARABOLIC EQUATIONS WITH COEFFICIENTS MEASURABLE IN TIME [[pdf]](https://arxiv.org/pdf/1806.02635.pdf)
+
 ---------------------
 
 
