@@ -14,3 +14,11 @@
  - The huge dataset contains 100,000 video sequences which can be used by engineers and others in the burgeoning industry to further develop self-driving technologies. 
  
  
+(3) Soccer World Cup 2018 Winner
+ [[Download]](https://www.kaggle.com/agostontorok/soccer-world-cup-2018-winner/data)
+ 
+ - FIFA rankings from 1993 to 2018 (courtesy of Tadhg Fitzgerald
+ - International Soccer matches from 1872 to 2018 (courtesy of Mart Jürisoo)
+ - FIFA World Cup 2018 data set (courtesy of Nuggs)
+ 
+ 
