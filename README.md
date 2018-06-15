@@ -66,6 +66,8 @@
 
 (8) SSD: Single Shot MultiBox Detector (2015) [[pdf]](https://arxiv.org/pdf/1512.02325.pdf)
 
+(9) DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks [[pdf]](https://arxiv.org/abs/1709.08429.pdf)
+
 ---------------------
 
 
