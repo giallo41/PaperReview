@@ -104,6 +104,8 @@
 (6) Spatially Supervised Recurrent Convolutional Neural
 Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf)
 
+(7) Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks [[pdf]](http://www.robots.ox.ac.uk/~mobile/Papers/2016AAAI_ondruska.pdf)
+
 ---------------------
 
 
