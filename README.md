@@ -101,6 +101,9 @@
 
 (5) Lp-ESTIMATES FOR TIME FRACTIONAL PARABOLIC EQUATIONS WITH COEFFICIENTS MEASURABLE IN TIME [[pdf]](https://arxiv.org/pdf/1806.02635.pdf)
 
+(6) Spatially Supervised Recurrent Convolutional Neural
+Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf)
+
 ---------------------
 
 
