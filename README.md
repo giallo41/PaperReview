@@ -110,6 +110,8 @@ Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf
  [[pdf]](https://arxiv.org/abs/1805.12177.pdf)
 
 
+(9) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth Data
+ [[pdf]](https://arxiv.org/abs/1705.09606.pdf)
 
 ---------------------
 
