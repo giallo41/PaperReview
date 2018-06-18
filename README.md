@@ -106,6 +106,11 @@ Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf
 
 (7) Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks [[pdf]](http://www.robots.ox.ac.uk/~mobile/Papers/2016AAAI_ondruska.pdf)
 
+(8) Why do deep convolutional networks generalize so poorly to small image transformations?
+ [[pdf]](https://arxiv.org/abs/1805.12177.pdf)
+
+
+
 ---------------------
 
 
