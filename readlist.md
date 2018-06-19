@@ -21,3 +21,8 @@ http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-wi
 
 Predict New York City Taxi Demand
 https://nycdatascience.com/blog/student-works/predict-new-york-city-taxi-demand/
+
+
+Object Detection with 10 lines of code
+https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
+
