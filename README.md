@@ -68,6 +68,8 @@
 
 (9) DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks [[pdf]](https://arxiv.org/abs/1709.08429.pdf)
 
+(10) Auto-context Convolutional Neural Network (Auto-Net) for Brain Extraction in Magnetic Resonance Imaging ( 2017 ) [[pdf]](https://arxiv.org/abs/1703.02083.pdf)
+
 ---------------------
 
 
