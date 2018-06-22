@@ -106,11 +106,18 @@ Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf
 
 (7) Deep Tracking: Seeing Beyond Seeing Using Recurrent Neural Networks [[pdf]](http://www.robots.ox.ac.uk/~mobile/Papers/2016AAAI_ondruska.pdf)
 
-(8) Why do deep convolutional networks generalize so poorly to small image transformations?
+(8) RUDDER: Return Decomposition for Delayed Rewards
+ [[pdf]](https://arxiv.org/pdf/1806.07857.pdf)
+ 
+ 
+(9) Why do deep convolutional networks generalize so poorly to small image transformations?
  [[pdf]](https://arxiv.org/abs/1805.12177.pdf)
+ 
 
 
-(9) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth Data
+
+
+(10) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth Data
  [[pdf]](https://arxiv.org/abs/1705.09606.pdf)
 
 ---------------------
