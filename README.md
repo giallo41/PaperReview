@@ -121,6 +121,11 @@ Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf
 
 (10) End-to-end Global to Local CNN Learning for Hand Pose Recovery in Depth Data
  [[pdf]](https://arxiv.org/abs/1705.09606.pdf)
+ 
+(11) 
+Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples
+ [[pdf]](https://arxiv.org/abs/1711.09325.pdf)
+
 
 ---------------------
 
