@@ -13,7 +13,8 @@
 
 (4) DeepTransport: Learning Spatial-Temporal Dependency for Traffic Condition Forecasting [[pdf]](https://arxiv.org/abs/1709.09585.pdf)
 
-
+(5) An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution
+ [[pdf]](https://arxiv.org/abs/1807.03247.pdf)
 
 ---------------------
 
