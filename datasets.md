@@ -22,3 +22,7 @@
  - FIFA World Cup 2018 data set (courtesy of Nuggs)
  
  
+(4) 2016 Yellow Taxi Trip Data 
+[[Download]](https://data.cityofnewyork.us/Transportation/2016-Yellow-Taxi-Trip-Data/k67s-dv2t)
+
+- This dataset includes trip records from all trips completed in yellow taxis from in NYC from January to June in 2016. Records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) by technology providers authorized under the Taxicab Passenger Enhancement Program (TPEP). The trip data was not created by the TLC, and TLC makes no representations as to the accuracy of these data. 
