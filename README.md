@@ -71,6 +71,10 @@
 
 (10) Auto-context Convolutional Neural Network (Auto-Net) for Brain Extraction in Magnetic Resonance Imaging ( 2017 ) [[pdf]](https://arxiv.org/abs/1703.02083.pdf)
 
+(11) Improved Training of Generative Adversarial Networks using Representative Features (2018)[[pdf]](https://arxiv.org/pdf/1801.09195.pdf)
+
+(12) SeedNet: Automatic Seed Generation with Deep Reinforcement Learning for Robust Interactive Segmentation (2018, CVPR)[[pdf]](https://arxiv.org/pdf/1801.09195.pdf)
+
 ---------------------
 
 
