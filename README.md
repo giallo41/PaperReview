@@ -30,6 +30,8 @@
 
 (4) Google in silico fluorescent labeling (2018, Cell) [[pdf]](https://www.cell.com/cell/fulltext/S0092-8674(18)30364-7)
 
+(5) DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning (2018, Medical Imaging) [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-3/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.short?SSO=1)
+
 ---------------------
 
 
