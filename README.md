@@ -135,6 +135,8 @@ Networks for Visual Object Tracking [[pdf]](https://arxiv.org/pdf/1607.05781.pdf
 Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples
  [[pdf]](https://arxiv.org/abs/1711.09325.pdf)
 
+(12) Feature-wise transformations [[link]](https://distill.pub/2018/feature-wise-transformations/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Deep%20Learning%20Weekly)
+
 
 ---------------------
 
