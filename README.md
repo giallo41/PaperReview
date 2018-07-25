@@ -77,6 +77,8 @@
 
 (12) SeedNet: Automatic Seed Generation with Deep Reinforcement Learning for Robust Interactive Segmentation (2018, CVPR)[[pdf]](https://arxiv.org/pdf/1801.09195.pdf)
 
+(13) Skip Connections Eliminate Singularities ( 2018, ICLR) [[pdf]](https://arxiv.org/abs/1701.09175)
+
 ---------------------
 
 
