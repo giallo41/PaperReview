@@ -40,6 +40,8 @@
 
 (1) Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement (2018, ICLR) [[pdf]](https://arxiv.org/pdf/1802.06901.pdf)
 
+(2) Recent Trends in Deep Learning Based Natural Language Processing  [[pdf]](https://arxiv.org/pdf/1708.02709.pdf)
+
 
 ---------------------
 
