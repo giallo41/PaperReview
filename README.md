@@ -81,6 +81,8 @@
 
 (13) Skip Connections Eliminate Singularities ( 2018, ICLR) [[pdf]](https://arxiv.org/abs/1701.09175)
 
+(14) What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision ( 2017, NIPS ) [[pdf](https://arxiv.org/abs/1703.04977)
+
 ---------------------
 
 
