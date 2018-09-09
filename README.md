@@ -83,6 +83,13 @@
 
 (14) What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision ( 2017, NIPS ) [[pdf](https://arxiv.org/abs/1703.04977)
 
+(15) Finding Tiny Faces in the Wild with Generative Adversarial Network (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bai_Finding_Tiny_Faces_CVPR_2018_paper.pdf)
+
+(16) Person Transfer GAN to Bridge Domain Gap for Person Re-Identification (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)
+
+(17) Glimpse Clouds: Human Activity Recognition From Unstructured Feature Points (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baradel_Glimpse_Clouds_Human_CVPR_2018_paper.pdf)
+
+
 ---------------------
 
 
@@ -92,9 +99,14 @@
 
 (2) Deep Fragment Embeddings for Bidirectional ImageSentence Mapping [[pdf]](https://arxiv.org/abs/1406.5679.pdf)
 
-(3) Embodied Question Answering (2018) [[pdf]](https://arxiv.org/abs/1711.11543.pdf)
+(3) Recent Advance in Content-based Image Retrieval: A Literature Survey (2017) [[pdf]](https://arxiv.org/pdf/1706.06064.pdf)
 
-(4) Recent Advance in Content-based Image Retrieval: A Literature Survey (2017) [[pdf]](https://arxiv.org/pdf/1706.06064.pdf)
+(4) Embodied Question Answering (2018, CVPR) [[pdf]](https://arxiv.org/abs/1711.11543.pdf)
+
+
+
+
+
 
 
 
