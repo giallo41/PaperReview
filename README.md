@@ -154,6 +154,10 @@ Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Sam
 (12) Feature-wise transformations [[link]](https://distill.pub/2018/feature-wise-transformations/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Deep%20Learning%20Weekly)
 
 
+(13) Towards a Mathematical Understanding of the Difficulty in Learning With Feedforward Neural Networks (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Towards_a_Mathematical_CVPR_2018_paper.pdf)
+
+
+
 ---------------------
 
 
