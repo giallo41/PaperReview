@@ -15,9 +15,16 @@
 
 (5) An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution
  [[pdf]](https://arxiv.org/abs/1807.03247.pdf)
+ 
+(6) Learning Traffic as Images: A Deep Convolutional Neural Network for Large-Scale Transportation Network Speed Prediction
+ [[pdf]](https://arxiv.org/abs/1701.04245.pdf)
+ 
+
+<br>
 
 ---------------------
 
+<br>
 
 
 ### Medical & Healthcare
@@ -32,7 +39,13 @@
 
 (5) DeepLesion: automated mining of large-scale lesion annotations and universal lesion detection with deep learning (2018, Medical Imaging) [[pdf]](https://www.spiedigitallibrary.org/journals/Journal-of-Medical-Imaging/volume-5/issue-3/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.short?SSO=1)
 
+
+<br>
+
 ---------------------
+
+<br>
+
 
 
 
@@ -43,14 +56,23 @@
 (2) Recent Trends in Deep Learning Based Natural Language Processing  [[pdf]](https://arxiv.org/pdf/1708.02709.pdf)
 
 
+<br>
+
 ---------------------
+
+<br>
+
 
 ### Speech & Audio 
 
 (1) A Universal Music Translation Network (2018, Facebook Research) [[pdf]](https://arxiv.org/pdf/1805.07848.pdf)
 
 
+<br>
+
 ---------------------
+
+<br>
 
 
 ### Computer Vision 
@@ -90,7 +112,12 @@
 (17) Glimpse Clouds: Human Activity Recognition From Unstructured Feature Points (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baradel_Glimpse_Clouds_Human_CVPR_2018_paper.pdf)
 
 
+<br>
+
 ---------------------
+
+<br>
+
 
 
 ### Grounding 
@@ -111,7 +138,12 @@
 
 
 
+<br>
+
 ---------------------
+
+<br>
+
 
 
 ### ETC 
@@ -158,7 +190,12 @@ Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Sam
 
 
 
+<br>
+
 ---------------------
+
+<br>
+
 
 
 
