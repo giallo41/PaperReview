@@ -111,6 +111,8 @@
 
 (17) Glimpse Clouds: Human Activity Recognition From Unstructured Feature Points (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Baradel_Glimpse_Clouds_Human_CVPR_2018_paper.pdf)
 
+(18) A Memory Network Approach for Story-based Temporal Summarization of 360◦ Videos (2018, CVPR) [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Lee_A_Memory_Network_CVPR_2018_paper.pdf)
+
 
 <br>
 
