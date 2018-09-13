@@ -20,6 +20,8 @@
  [[pdf]](https://arxiv.org/abs/1701.04245.pdf)
  
 (7) Improving Taxi Revenue with Reinforcement Learning [[pdf]](http://cs229.stanford.edu/proj2014/Jingshu%20Wang,%20Benjamin%20Lampert,%20Improving%20Taxi%20Revenue%20With%20Reinforcement%20Learning.pdf)
+
+(8) Augmenting decisions of taxi drivers through reinforcement learning for improving revenues [[pdf]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=4869&context=sis_research)
  
 
 <br>
