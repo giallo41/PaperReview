@@ -26,6 +26,10 @@
 (9) Combining time-series and textual data for taxi demand prediction in event areas: a deep learning approach (2018) [[pdf]](https://arxiv.org/abs/1808.05535.pdf)
  
 
+(10) Agent-Based Modeling of Taxi Behavior Simulation with Probe Vehicle Data (2018) [[pdf]](www.mdpi.com/2220-9964/7/5/177/pdf)
+ 
+
+
 <br>
 
 ---------------------
