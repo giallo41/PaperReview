@@ -28,6 +28,7 @@
 
 (10) Agent-Based Modeling of Taxi Behavior Simulation with Probe Vehicle Data (2018) [[pdf]](www.mdpi.com/2220-9964/7/5/177/pdf)
  
+(11) Simulation-based optimization of service areas for pooledride-hailing operators (2018) [[pdf]](https://reader.elsevier.com/reader/sd/pii/S1877050918304290?token=8D59463DBA43DF958BA526CB7E47642A489898477ED1242C0E467760B64D5F91A5DFCF1FEA2591FE27250BA507B53B3C)
 
 
 <br>
