@@ -3,6 +3,13 @@
 
 ---------------------
 
+## AD-tech 
+
+### Recommendation 
+
+(1) Deep Learning based Recommender System: A Survey and New Perspectives [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
+
+
 ### Transportation 
 
 (1) Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [[pdf]](https://arxiv.org/abs/1802.08714)
