@@ -10,6 +10,15 @@
 (1) Deep Learning based Recommender System: A Survey and New Perspectives [[pdf]](https://arxiv.org/pdf/1707.07435.pdf)
 
 
+### Distribution Learning 
+
+(1) Neural Autoregressive Distribution Estimation [[pdf]](https://arxiv.org/pdf/1605.02226.pdf)
+
+<br>
+---------------------
+<br>
+
+
 ### Transportation 
 
 (1) Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction [[pdf]](https://arxiv.org/abs/1802.08714)
